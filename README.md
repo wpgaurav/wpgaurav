@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on several projects like TrueDealTrip, VoiceOfIndians, HouseOfUmrao, Camerographer etc.
 - ⚡ I have worked with more than 500 clients in last 11 years.
-- 🌱 I’m currently reading psychology books (mostly  related to paradoxes).
+<!-- - 🌱 I’m currently reading psychology books (mostly  related to paradoxes). -->
 - 👯 I’m looking to collaborate on any open source project that involves work in PHP, JS, CSS (i.e., easy work – I'd love to relax in this lockdown).
 - 🤔 I’m looking for writers who can contribute to [my blog](https://gauravtiwari.org)
 - 💬 Ask me about Blogging, Learning, Programming and Marketing.
