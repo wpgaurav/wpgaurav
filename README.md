@@ -1,30 +1,32 @@
-Hello there and Namastey.🙏🏻 I am Gaurav Tiwari, seen mostly as @wpgaurav or @gauravtiwari. I am a blogger, developer and designer from Nainital, India.
+Hello there and Namastey.🙏🏻
 
-Connect with me on [my blog](https://gauravtiwari.org), [twitter](https://twitter.com/wpgaurav/) or [dev.to](https://dev.to/wpgaurav)
+I am [Gaurav Tiwari](https://gauravtiwari.org), an experienced developer, designer and content marketer with expertise in conversion, performance and growth. I offer consultation and marketing services to brands and businesses.
 
-<!--
-**wpgaurav/wpgaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also create awesome content and conversion-first tools for brands, businesses and bloggers.
 
-Here are some ideas to get you started:
+Connect with me on [my blog](https://gauravtiwari.org/blog/), [twitter](https://twitter.com/wpgaurav/), [newsletter](https://gauravtiwari.org/newsletter) and all other places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on several projects like TrueDealTrip, VoiceOfIndians, HouseOfUmrao, Camerographer etc.
-- ⚡ I have worked with more than 500 clients in last 11 years.
-<!-- - 🌱 I’m currently reading psychology books (mostly  related to paradoxes). -->
-- 👯 I’m looking to collaborate on any open source project that involves work in PHP, JS, CSS (i.e., easy work – I'd love to relax in this lockdown).
-- 🤔 I’m looking for writers who can contribute to [my blog](https://gauravtiwari.org)
-- 💬 Ask me about Blogging, Learning, Programming and Marketing.
+- 🔭 I’m currently working on several freelance development and writing projects for [my clients](https://gauravtiwari.org/clients/) and public.
+- ⚡ I have worked with more than 659 clients in last 13 years.
+- 👯 I’m looking to collaborate on any open source project that involves work in PHP/CSS/HTML5/JS.
+- 🥞 I also offer product marketing services for existing online projects and business. [See my services here](https://gauravtiwari.org/services/)
+- 🤔 I’m looking for writers who can contribute to [my blog](https://gauravtiwari.org/blog/)
+- 💬 Ask me anything about Blogging, Learning, Programming, SEO, WordPress and Marketing.
 - 📫 Email me at [gaurav@gauravtiwari.org](mailto:gaurav@gauravtiwari.org)
 - 😄 Pronouns: He/His
 
 More code snippets:
 - [https://gauravtiwari.org/code/](https://gauravtiwari.org/code/)
 - [https://gist.github.com/wpgaurav](https://gist.github.com/wpgaurav)
+
+I am known for:
+1. My exceptional products and services
+2. My WordPress projects
+3. My blog
+
+Explore my services
+1. [Web Development](https://gauravtiwari.org/services/web-development-services/)
+2. [Graphic Design](https://gauravtiwari.org/services/graphic-design-services/)
+3. [WordPress](https://gauravtiwari.org/services/wordpress-development-services/)
+4. [Content Writing](https://gauravtiwari.org/services/content-writing-services/)
+5. [Content Marketing](https://gauravtiwari.org/services/content-marketing-services/)
