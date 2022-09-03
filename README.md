@@ -13,7 +13,7 @@ Connect with me on [my blog](https://gauravtiwari.org/blog/), [twitter](https://
 - 🤔 I’m looking for writers who can contribute to [my blog](https://gauravtiwari.org/blog/)
 - 💬 Ask me anything about Blogging, Learning, Programming, SEO, WordPress and Marketing.
 - 📫 Email me at [gaurav@gauravtiwari.org](mailto:gaurav@gauravtiwari.org)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him/His
 
 More code snippets:
 - [https://gauravtiwari.org/code/](https://gauravtiwari.org/code/)
