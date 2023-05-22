@@ -20,13 +20,7 @@ More code snippets:
 - [https://gist.github.com/wpgaurav](https://gist.github.com/wpgaurav)
 
 I am known for:
-1. My exceptional products and services
-2. My WordPress projects
-3. My blog
-
-Explore my services
-1. [Web Development](https://gauravtiwari.org/services/web-development-services/)
-2. [Graphic Design](https://gauravtiwari.org/services/graphic-design-services/)
-3. [WordPress](https://gauravtiwari.org/services/wordpress-development-services/)
-4. [Content Writing](https://gauravtiwari.org/services/content-writing-services/)
-5. [Content Marketing](https://gauravtiwari.org/services/content-marketing-services/)
+1. [My exceptional Clientele](https://gauravtiwari.org)
+2. [My WordPress Plugins](https://gauravtiwari.org/wordpress-plugins/)
+3. [My blog](https://gauravtiwari.org/blog/)
+4. [My services](https://gauravtiwari.org/services)
