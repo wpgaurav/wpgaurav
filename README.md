@@ -1,142 +1,42 @@
-## Hello, and Namaste.
+# Hey, I'm Gaurav 👋
 
-I’m **Gaurav Tiwari**
-Developer. Designer. Marketer. Educator. Builder.
+WordPress developer and performance nerd with 16+ years of building things that actually work.
 
-I help brands, businesses, and creators grow online through **high-performance websites**, **conversion-first content**, and **practical tools that actually get used**.
+I run [Gatilab](https://gatilab.com), a digital marketing agency, and write at [gauravtiwari.org](https://gauravtiwari.org) where I've published 1,750+ articles on WordPress, SEO, and building profitable websites.
 
-I’ve been doing this since my teens.
-Fifteen-plus years later, I’m still shipping.
+## What I Do
 
-Most of saying, “I know WordPress,” I focus on what matters more:
+**Build WordPress plugins** that solve real problems. My plugins serve 7,500+ active users.
 
-* Faster sites
-* Better conversions
-* Sustainable growth
-* Systems that scale without breaking
+**Optimize for speed.** I'm obsessive about Core Web Vitals, server response times, and eliminating bloat.
 
-If it loads fast, ranks well, and converts users into customers, I’m probably interested.
+**Write content that converts.** Not generic SEO fluff. Practical, experience-backed guides that rank and drive revenue.
 
----
+## Notable Work
 
-## What I Do (In Plain English)
+- WordPress Core Contributor
+- Worked with 800+ clients including IBM, Adobe, HubSpot, Canva, and UC Riverside
+- Built custom solutions for enterprise tech companies, government entities, and growing startups
 
-* Build and optimize **high-performance websites**
-* Design **conversion-focused user experiences**
-* Write and edit **content that ranks and converts**
-* Create **tools and plugins** used by real businesses
-* Help teams with **growth strategy, SEO, and product marketing**
+## Current Stack
 
-I work with startups, solo founders, agencies, government bodies, and global brands.
+- **Theme:** GeneratePress + Marketers Delight
+- **Caching:** FlyingPress
+- **SEO:** Rank Math
+- **Hosting:** Cloudways / Hetzner
 
-Some names you might recognize: IBM, Adobe, Canva, HubSpot, Airtel, Acer, Ministry of Agriculture (India), and many more.
+## Get In Touch
 
----
+- 📧 [gaurav@gauravtiwari.org](mailto:gaurav@gauravtiwari.org)
+- 🐦 [@wpgaurav](https://twitter.com/wpgaurav)
+- 📰 [The Friday Drop](https://gauravtiwari.org/newsletter) - Weekly newsletter, 5,000+ subscribers
 
-## Current Focus
+## Open to
 
-* Freelance development and content projects for private clients and public platforms
-* Building and maintaining tools, plugins, and utilities in the WordPress ecosystem
-* Long-form educational content around blogging, SEO, WordPress, and digital growth
-* Consulting brands on performance, conversions, and monetization
-
-Client work and public work both matter to me. I do both.
+- Collaborating on WordPress/PHP open source projects
+- Performance consulting for high-traffic sites
+- Guest contributors for my blog
 
 ---
 
-## By The Numbers
-
-* 15+ years of hands-on experience
-* 700+ clients served across industries
-* Millions of users reached through campaigns, content, and tools
-* Multiple open-source projects and plugins in active use
-
-No fluff. Just output.
-
----
-
-## Tech & Tools I Work With
-
-**Languages & Core Tech**
-
-* PHP, JavaScript, HTML5, CSS
-* MySQL, REST APIs
-
-**Platforms**
-
-* WordPress (deeply)
-* Webflow, Framer, Next.js (select projects)
-
-**Focus Areas**
-
-* Performance optimization
-* SEO and technical SEO
-* Conversion rate optimization
-* Content systems and editorial workflows
-
-If a project touches PHP, CSS, JavaScript, or WordPress internals, I’m comfortable going deep.
-
----
-
-## Open Source & Collaboration
-
-I enjoy collaborating on open-source projects that are:
-
-* Practical
-* Well-documented
-* Built to solve real problems
-
-If your project involves PHP, frontend work, WordPress, or developer-focused tooling, I’m open to collaborating.
-
----
-
-## Writing & Content
-
-I also run an established blog where I publish long-form content on:
-
-* Blogging and content strategy
-* WordPress and web performance
-* SEO and digital marketing
-* Education and learning systems
-
-I occasionally accept high-quality contributions from writers who actually know their craft.
-
----
-
-## Find Me Online
-
-* Website: [https://gauravtiwari.org](https://gauravtiwari.org)
-* Blog: [https://gauravtiwari.org/blog/](https://gauravtiwari.org/blog/)
-* Newsletter: [https://gauravtiwari.org/newsletter](https://gauravtiwari.org/newsletter)
-* Twitter/X: [https://twitter.com/wpgaurav](https://twitter.com/wpgaurav)
-
-If you want a deeper look at my work and thinking, the blog and newsletter are the best places.
-
----
-
-## Code & Snippets
-
-* Code archive: [https://gauravtiwari.org/code/](https://gauravtiwari.org/code/)
-* GitHub gists: [https://gist.github.com/wpgaurav](https://gist.github.com/wpgaurav)
-
-Most of my snippets come from real projects, not tutorials written for clicks.
-
----
-
-## Known For
-
-1. A strong and diverse client portfolio
-2. Practical WordPress plugins and tools
-3. In-depth, no-nonsense writing
-4. Consulting and services focused on real results
-
----
-
-## Contact
-
-Email: [gaurav@gauravtiwari.org](mailto:gaurav@gauravtiwari.org)
-Pronouns: He / Him
-
-If you’re building something serious and want it done right, reach out.
-
-Otherwise, feel free to explore, fork, break things, and learn.
+*Based in India. Building since 2009.*
