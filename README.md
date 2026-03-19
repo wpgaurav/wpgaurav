@@ -70,7 +70,7 @@
 - 🌐 [gauravtiwari.org](https://gauravtiwari.org)
 - 💼 [Gatilab](https://gatilab.com)
 - 📬 [The Friday Drop](https://newsletter.gauravtiwari.org)
-- 🐦 [Twitter/X](https://twitter.com/jefrfrwpgaurav)
+- 🐦 [Twitter/X](https://twitter.com/wpgaurav)
 
 ---
 
