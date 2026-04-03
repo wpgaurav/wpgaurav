@@ -26,7 +26,6 @@
 
 ![wpgaurav](https://github-readme-streak-stats.herokuapp.com/?user=wpgaurav&)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpgaurav&layout=compact)](https://github.com/wpgaurav)
 
 #### Tech & Tools
 
