@@ -24,7 +24,6 @@
 
 ---
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wpgaurav&show_icons=true&theme=default)
 ![wpgaurav](https://github-readme-streak-stats.herokuapp.com/?user=wpgaurav&)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wpgaurav&layout=compact)](https://github.com/wpgaurav)
@@ -59,9 +58,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=wpgaurav&color=blue&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/wpgaurav?style=flat&logo=github)
 ![WordPress.org](https://img.shields.io/badge/WordPress.org-Core_Contributor-21759B?style=flat&logo=wordpress&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-16+_Years-green?style=flat)
+![Experience](https://img.shields.io/badge/Experience-17+_Years-green?style=flat)
 ![Clients](https://img.shields.io/badge/Clients-800+-orange?style=flat)
-![Articles](https://img.shields.io/badge/Articles-1,750+-blue?style=flat)
+![Articles](https://img.shields.io/badge/Articles-2,650+-blue?style=flat)
 
 ---
 
