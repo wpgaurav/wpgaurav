@@ -1,6 +1,6 @@
 ### Hey, I'm Gaurav 👋
 
-**WordPress Core Contributor. Building plugins, breaking things, fixing them since 2009. Founder @ Gatilab. 800+ clients. 1,750+ articles on [gauravtiwari.org](https://gauravtiwari.org). Math nerd who ended up writing PHP.**
+**WordPress Core Contributor. Building plugins, breaking things, fixing them since 2009. Founder @ Gatilab. 800+ clients. 1,750+ articles on [gauravtiwari.org](https://gauravtiwari.org) and hundreds more on other blgos. Math nerd who ended up writing PHP.**
 
 ---
 
