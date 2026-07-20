@@ -23,6 +23,14 @@
 - **1** mathematics degree that somehow led to debugging wp_query
 
 ---
+<div align="center">
+  <a href="https://commit-history.com/wpgaurav">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/wpgaurav?theme=dark" />
+      <img alt="wpgaurav's commit history" src="https://commit-history.com/embed/wpgaurav" />
+    </picture>
+  </a>
+</div>
 
 
 #### Tech & Tools
