@@ -6,12 +6,15 @@ I'm also a WordPress Core Contributor. Most of what I build starts with a produc
 
 ## What I'm working on
 
-- [Core Forms](https://core-forms.com/), a lightweight WordPress form builder with full HTML control
-- [GT Link Manager](https://wordpress.org/plugins/gt-link-manager/), an open-source affiliate-link manager
-- [GT Performance](https://gauravtiwari.org/product/gt-performance/), a commerce-aware WordPress caching and performance stack
-- Five WordPress.org plugins with **8,000+ active installations**
-- [gauravtiwari.org](https://gauravtiwari.org/), where I publish practical guides on WordPress, SEO, software, and building online
-- [The Friday Drop](https://newsletter.gauravtiwari.org/), my weekly newsletter for WordPress builders and solo creators
+- [GT Performance](https://gauravtiwari.org/product/gt-performance/) handles caching on my personal and business websites: commerce-safe page caching, Cloudflare integration, server-side unused CSS, and Redis in 1 plugin. It replaced FlyingPress for me.
+- [GT Link Manager](https://gauravtiwari.org/product/gt-link-manager/) manages every affiliate link and redirect I create, with click analytics and geo-targeting. The /go/ links on this page run through it.
+- [Core Forms](https://gauravtiwari.org/product/core-forms/) powers every form and poll on my websites, plus payments and digital product delivery. I built it for speed: forms without the JavaScript bloat most form plugins load on every page.
+- [GT ACF Blocks](https://gauravtiwari.org/product/gt-acf-blocks-plugin/) adds 29 production-ready blocks to the editor. The accordions and product boxes across my content come from these blocks. Requires ACF Pro.
+- [GT Page Blocks Builder](https://gauravtiwari.org/product/gt-page-blocks-builder/) is a free page builder for people who’d rather write HTML, CSS, and JavaScript than fight a drag-and-drop canvas. It packages the exact workflow I use to build custom landing sections.
+- [GT Extensions for FluentCart](https://gauravtiwari.org/product/gt-extensions-for-fluentcart/) gives my shop external products, exact local prices, and currency-aware payment routing. Readers in India check out in INR without thinking about it.
+- [GT DeepSeek for AI](https://gauravtiwari.org/product/gt-deepseek-for-ai/) connects DeepSeek V4 to the WordPress AI Client with reasoning, tools, and web search. I run it on my personal website for ALT text and editorial chores.
+- [Alpha Chat](https://gauravtiwari.org/product/alpha-chat/) is my open-source AI chatbot for WordPress, with RAG and MySQL vector storage. It answers reader questions on 2 of my websites right now.
+- [Functionalities](https://gauravtiwari.org/product/functionalities/) is the utility layer: custom post types, admin cleanup, and the small fixes every WordPress site eventually needs. It runs on my personal and business websites.
 
 ## Proof, not profile padding
 
