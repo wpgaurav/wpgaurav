@@ -1,5 +1,7 @@
 # Hey, I'm Gaurav Tiwari 👋
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/gauravtiwari)
+
 I'm a **WordPress developer, educator, and founder of [Gatilab](https://gatilab.com/)**. I've published online since 2008 and built WordPress software since 2009, with a focus on performance, technical SEO, publishing systems, and practical tools.
 
 I'm also a WordPress Core Contributor. Most of what I build starts with a production problem I don't want to solve twice.
@@ -26,6 +28,16 @@ I'm also a WordPress Core Contributor. Most of what I build starts with a produc
 ## Working stack
 
 `PHP` `TypeScript` `JavaScript` `WordPress` `Gutenberg` `ACF` `REST API` `WP-CLI` `MariaDB` `Redis` `Nginx` `Cloudflare` `Hetzner`
+
+## Support My Work
+
+I maintain open-source WordPress plugins and developer tooling that run on live publishing and commerce sites, my own included.
+
+If one of my plugins or tools solved a WordPress problem you were about to code around yourself, you can buy me a coffee.
+
+<a href="https://buymeacoffee.com/gauravtiwari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="50"></a>
+
+It helps when you star the repos you use and even more when you open an issue with steps to reproduce on the one that gave you trouble.
 
 ## Find me
 
